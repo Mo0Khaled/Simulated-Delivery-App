@@ -1,16 +1,21 @@
-# simulated_delivery_app
+# Simulated Delivery App
 
-A new Flutter project.
+![ezgif com-video-to-gif](https://github.com/Mo0Khaled/Book-my-trip-flutter/assets/55635328/73d94e31-6f19-4073-bbeb-5d1b845564ae)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+a simple demo for delivery app, the driver marker will move from a starting point to the pickup point then goes to the delivery point and the user will be notified when he near or arrived
 
-A few resources to get you started if this is your first Flutter project:
+To make it work you need to do the following:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1 - open core -> endpoints.dart -> add your GoogleApiKey
+2 - open AndroidManifest.xml -> scroll to bottom -> add your GoogleApiKey
+3 - open ios folder -> Runner -> AppDelegate.swift -> add your GoogleApiKey
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Annnnd -> Happy run, Happy Coding.
+
+
+
+
+
